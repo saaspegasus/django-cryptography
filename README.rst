@@ -1,10 +1,13 @@
 Django Cryptography 5
 =====================
 
-**Note: This is a fork of the official [georgemarshall/django-cryptography](https://github.com/georgemarshall/django-cryptography/) project,
+**Note: This is a fork of the official `georgemarshall/django-cryptography`_ project,
 which appears to have be abandoned.
-The only change made in this fork that the patch that [fixes Django 5 compatiblity](https://github.com/georgemarshall/django-cryptography/issues/74)
+The only change made in this fork that the patch that `fixes Django 5 compatiblity`_
 has been applied and pushed to pypi as a new project.**
+
+.. _georgemarshall/django-cryptography: https://github.com/georgemarshall/django-cryptography/
+.. _fixes Django 5 compatiblity: https://github.com/georgemarshall/django-cryptography/issues/74
 
 You can install the forked version from pypi with the following command:
 
